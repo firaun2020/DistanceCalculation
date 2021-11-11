@@ -31,3 +31,6 @@ class DistanceCalculator {
     print('Distance from location 1 to 2 is : ${distanceMain.toInt()} km');
   }
 }
+
+//Uncomment the lines 16 to 25 for manually calculation
+//Line 27 to 30 are using a package dependency: imported at Line 3
